@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Motorola ONE",
+      "price": "1400.0"
+    },
+    {
+      "id": 2,
+      "name": "Notebook ACER",
+      "price": "2900.0"
+    },
+    {
+      "id": 3,
+      "name": "TV 4K",
+      "price": "5400.0"
+    },
+    {
+      "name": "Sansung S20",
+      "price": "3900.0",
+      "id": 4
+    }
+  ]
+}
